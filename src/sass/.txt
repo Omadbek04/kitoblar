@@ -1,0 +1,1 @@
+Bu papkamizda loyihaga tegishli bolgan sass (stilash uchun)  fayllar boladi

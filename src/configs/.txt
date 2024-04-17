@@ -1,0 +1,2 @@
+Bu papkamizda loyihaga tegishli bolgan ozgarmas configlar saqlanadi va istalgan joyda chaqirib ishlatiladi
+masalan: { apiBaseUrl: "https://api.example.com"} 

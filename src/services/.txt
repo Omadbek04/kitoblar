@@ -1,0 +1,1 @@
+ Bu papkamizda loyihaga tegishli bolgan Api sorov funksayallarini yoziladi 

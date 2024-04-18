@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const AppRoute = () => {
-  return (
-    <div>AppRoute</div>
-  )
-}
+const AppRoute = ({ component: Component }) => {
+  return <Component />;
+};
 
-export default AppRoute
+export default AppRoute;

@@ -2,7 +2,7 @@ import React from "react";
 import { isAuthenticated } from "../../store";
 import { Navigate, Outlet } from "react-router-dom";
 
-const AuthRoute = () => {
+const AuthRoute = ({ isAuthenticated }) => {
   if (isAuthenticated) {
     return <Navigate to={"/"} replace />;
   }
